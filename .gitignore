@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+*.png
+!docs/**/*.png
+tmp/
+.env
+*.pkl
+*.h5
+*.bin
+*.wav
+synthetic_ocr_sample.png
+synthetic_speech.wav
